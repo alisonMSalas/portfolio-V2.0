@@ -134,7 +134,7 @@ const Contact = () => {
 
             <div className="contact-detail-item">
               <a
-                href="/docs/Curriculum Alison Salas.pdf"
+                href="/src/docs/Curriculum Alison Salas.pdf"
                 className="contact-cv-link"
                 download
                 data-cursor
